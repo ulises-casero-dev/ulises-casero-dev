@@ -1,7 +1,8 @@
-<h1> Hey! Nice to see you.</h1>
+<h1>Hi there 👋</h1>
 
 
-<p>Hi, I’m Ulises, a junior developer with three years of experience working on projects. I created this profile to showcase my personal projects, which are part of my portfolio, as I steer my career towards backend software development.</p>  
+<p>Hi, I’m Ulises — a developer with 3 years of experience contributing to software development projects. 
+  I created this profile to showcase my personal projects, which are part of my portfolio, as I steer my career towards backend software development.</p>  
   
 
 - 🔭 I’m currently working on backend projects using Python and Java.  
