@@ -11,6 +11,23 @@
 
 </br>
 
+## 🚀 Projects
+
+### 🛒 [POS System (Supermarket)](https://github.com/ulises-casero-dev/pos-system) &nbsp; 🚧 In progress
+**Tech stack:** Java · Spring Boot · PostgreSQL  
+Backend system for managing products, users, and orders in a supermarket environment.  
+Implements role-based access, discount rules, and order processing logic.
+
+
+
+### 📦 [Inventory Manager](https://github.com/ulises-casero-dev/inventory-manager) &nbsp; 🚧 In progress  
+**Tech stack:** Python · FastAPI · PostgreSQL  
+API for managing inventory, stock levels, and product purchases.  
+Includes stock movement history and business logic validations.
+
+
+</br>
+
 ## 🛠️ Tech Stack  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
