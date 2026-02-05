@@ -14,14 +14,17 @@
 ## 🚀 Projects
 
 ### 🛒 [Self-checkout](https://github.com/ulises-casero-dev/self-checkout-system) &nbsp; 🚧 In progress
-**Tech stack:** Java · Spring Boot · PostgreSQL  
-Backend system for managing products, users, and orders in a supermarket environment.  
-Implements role-based access, discount rules, and order processing logic.
+**Tech stack:** Java · Spring Boot · PostgreSQL · Docker  
+
+Backend system for a supermarket self-checkout platform.  
+Manages products, users, orders, and discount rules with a clear separation of business logic.  
+Includes role-based access, discount strategies, and is fully containerized using Docker for easy setup and deployment.
 
 
 
 ### 📦 [Inventory Manager](https://github.com/ulises-casero-dev/inventory-manager) &nbsp; 🚧 In progress  
 **Tech stack:** Python · FastAPI · PostgreSQL  
+
 API for managing inventory, stock levels, and product purchases.  
 Includes stock movement history and business logic validations.
 
