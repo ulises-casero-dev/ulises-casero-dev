@@ -20,7 +20,7 @@
 
 ## 🚀 Projects
 
-### 🛒 [Self-checkout](https://github.com/ulises-casero-dev/self-checkout-system) &nbsp; 🚧 In progress
+### 🛒 [Self-checkout](https://github.com/ulises-casero-dev/self-checkout-system) &nbsp;
 **Tech stack:** Java · Spring Boot · PostgreSQL · Docker  
 
 Backend system for a supermarket self-checkout platform.  
