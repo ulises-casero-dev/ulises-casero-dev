@@ -13,7 +13,7 @@
 
 ## 🚀 Projects
 
-### 🛒 [POS System (Supermarket)](https://github.com/ulises-casero-dev/pos_system) &nbsp; 🚧 In progress
+### 🛒 [Self-checkout](https://github.com/ulises-casero-dev/pos_system) &nbsp; 🚧 In progress
 **Tech stack:** Java · Spring Boot · PostgreSQL  
 Backend system for managing products, users, and orders in a supermarket environment.  
 Implements role-based access, discount rules, and order processing logic.
